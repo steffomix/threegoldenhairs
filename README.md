@@ -3,11 +3,6 @@ A game of recovering 3 golden hairs
 
 The devil with the three golden hairs
 
- DEUTSCH
-
-Der Teufel mit den drei goldenen Haaren
-
-
 There was once a poor woman who gave birth to a little son; and as he came into the world with a caul on, it was predicted that in his fourteenth year he would have the King's daughter for his wife.
 
 It happened that soon afterwards the King came into the village, and no one knew that he was the King, and when he asked the people what news there was, they answered, "A child has just been born with a caul on; whatever any one so born undertakes turns out well. It is prophesied, too, that in his fourteenth year he will have the King's daughter for his wife."
@@ -52,3 +47,5 @@ At last the luck-child got home to his wife, who was heartily glad to see him ag
 
 The greedy King set out in all haste, and when he came to the river he beckoned to the ferry-man to put him across. The ferry-man came and bade him get in, and when they got to the other shore he put the oar in his hand and sprang out. But from this time forth the King had to ferry, as a punishment for his sins. Perhaps he is ferrying still? If he is, it is because no one has taken the oar from him.
 
+Source: 
+https://www.grimmstories.com/language.php?grimm=029&l=en&r=de
