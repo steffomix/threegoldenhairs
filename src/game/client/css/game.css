@@ -1,0 +1,185 @@
+
+html {
+    height: 100%;
+}
+body {
+    height: 100%;
+    margin: 0;
+    width: 100%;
+    overflow: hidden;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background: linear-gradient(to bottom, blue, white 80%, orange);
+}
+
+#game-container{
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    display: none;
+}
+
+input, button{
+    background-color: rgba(255,255,255,.2);
+    border-radius: 5px;
+    border: none;
+    padding: 2px 7px 2px 7px;
+}
+
+td{
+    padding: 2px;
+}
+
+button{
+    background-color: rgba(255,255,255,.8);
+}
+
+/*
+################## window
+*/
+.window-header{
+    width: 100%;
+    border-bottom: 5px solid rgba(0,0,0,.5);
+}
+
+.window-header-content{
+    padding: 1px 10px 1px 10px;
+    white-space: nowrap;
+}
+
+.window-body{
+    padding: 3px 5px 3px 10px;
+}
+
+.window-container{
+    display:none;
+    position: absolute;
+}
+.window{
+    border: 1px solid;
+    border-radius: 10px;
+    background-color: rgba(180,180,180,.3);
+}
+
+#game-stage{
+    width: 100%;
+    heigth: 100%;
+}
+
+
+/*
+################## chat
+*/
+
+#window-chat-body {
+    padding: 3px 5px 3px 10px;
+    max-height: 5em;
+    min-height: 3em;
+    min-width: 10em;
+    max-width: 30em;
+    overflow-y: scroll;
+    overflow-x: initial;
+
+}
+
+
+#inp-chat-message{
+    width: auto;
+    margin: 2px 5px 2px 5px;
+}
+
+#dsp-chat-messages tr td{
+    white-space: nowrap;
+}
+
+/*
+################## topnav
+http://www.w3schools.com/howto/howto_js_topnav.asp
+*/
+
+
+#topnav{
+}
+
+
+/* Remove margins and padding from the list, and add a black background color */
+ul.topnav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: transparent;
+}
+
+/* Float the list items side by side */
+ul.topnav li {
+    float: left;
+}
+
+/* Style the links inside the list items */
+ul.topnav li a,  ul.topnav li div{
+    display: inline-block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 2px 3px;
+    text-decoration: none;
+    border: 1px solid;
+    border-color: transparent;
+    border-radius: 5px;
+    transition: 0.2s;
+    cursor: pointer;
+}
+
+/* Change background color of links on hover */
+ul.topnav li a:hover,  ul.topnav li div:hover{
+    border: 1px solid #222222;
+    border-radius: 5px;
+}
+
+/*
+    Hide the list item that contains the link that should open and close the topnav on small screens
+*/
+ul.topnav li.icon {
+    display: none;
+}
+
+/*
+    Place the logout button to the right side.
+*/
+ul.topnav li.right {
+    float: right;
+    margin-right: 30px;
+}
+
+
+@media screen and (max-width:680px) {
+    /*
+        When the screen is less than 680 pixels wide, hide all list items, except for the first one ("Home").
+        Show the list item that contains the link to open and close the topnav (li.icon)
+    */
+    ul.topnav li:not(:first-child) {display: none;}
+    ul.topnav li.icon {
+        float: right;
+        display: inline-block;
+    }
+    /*
+        The "responsive" class is added to the topnav with JavaScript when the user clicks on the icon.
+        This class makes the topnav look good on small screens
+    */
+    ul.topnav.responsive {
+        position: relative;
+    }
+    ul.topnav.responsive li.icon {
+        position: absolute;
+        right: 0;
+        top: 0;
+    }
+    ul.topnav.responsive li {
+        float: none;
+        display: inline;
+    }
+    ul.topnav.responsive li button {
+        display: block;
+        text-align: left;
+    }
+}

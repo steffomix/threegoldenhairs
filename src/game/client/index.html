@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="cache-control" content="max-age=0"/>
+    <meta http-equiv="cache-control" content="no-cache"/>
+    <meta http-equiv="expires" content="0"/>
+    <meta http-equiv="expires" content="Tue, 01 Jan 1980 1:00:00 GMT"/>
+    <meta http-equiv="pragma" content="no-cache"/>
+    <meta name="viewport" content="initial-scale=1.0,user-scalable=no,maximum-scale=1">
+    <title>Game</title>
+    <link rel="stylesheet" href="/css/normalize.css">
+    <link rel="stylesheet" href="/css/main.css">
+    <link rel="stylesheet" href="/css/game.css">
+
+</head>
+<body id="body">
+
+<section id="game-container">
+    <!-- window connect-->
+    <section id="window-game-connect" class="window-container">
+        <div class="window">
+            <div class="window-header">
+                <div class="window-header-content">{{= connectToGame }}</div>
+            </div>
+            <div class="window-body">
+                <table>
+                    <tr>
+                        <td colspan="2" style="text-align: center; padding-top: 5px">
+                            <button id="button-game-connect">{{= connect }}</button>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td id="game-connect-message" colspan="2" style="text-align: center; padding-top: 5px">
+                            &nbsp;</td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </section>
+    <!-- window login-->
+    <section id="window-game-login" class="window-container">
+        <div class="window">
+            <div class="window-header">
+                <div class="window-header-content">{{= login }}</div>
+            </div>
+            <div class="window-body">
+                <table>
+                    <tr>
+                        <td>{{= username }}:</td>
+                        <td><input id="input-game-login-name" value="game.com" class="text-input"></td>
+                    </tr>
+                    <tr>
+                        <td>{{= password }}:</td>
+                        <td><input id="input-game-login-pwd" class="text-input"></td>
+                    </tr>
+                    <tr id="row-login-pwd2">
+                        <td>{{= password }}:</td>
+                        <td><input id="input-game-login-pwd2" class="text-input"></td>
+                    </tr>
+
+                    <tr>
+                        <td colspan="2" style="text-align: center; padding-top: 5px">
+                            <button id="button-game-login">{{= login }}</button>
+                            <button id="button-game-register">{{= register }}</button>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="2"><input type="checkbox" id="ck-game-register"/> {{= register}}</td>
+                    </tr>
+                    <tr>
+                        <td id="game-login-message" colspan="2" style="text-align: center; padding-top: 5px">&nbsp;</td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </section>
+
+    <!-- window chat -->
+    <section id="window-chat" class="window-container">
+        <div class="window">
+            <div class="window-header">
+                <div class="window-header-content">{{= chat}}</div>
+            </div>
+            <div id="window-chat-body" class="window-chat-body">
+                <table id="dsp-chat-messages" class="chat-messages">
+
+                </table>
+            </div>
+            <input id="inp-chat-message" class="inp-chat-message">
+        </div>
+    </section>
+
+    <!-- window topnav -->
+    <section id="window-topnav" class="window-container">
+        <ul class="topnav" id="topnav">
+            <li><a>Gamestats</a></li>
+            <li class="right">
+                <div id="topnav-logout">{{= logout}}</div>
+            </li>
+            <li class="icon">
+                <a id="topnav-icon-responsive">&#9776;</a>
+            </li>
+        </ul>
+    </section>
+
+    <!-- Game Stage (PIXI Container) -->
+    <div id="game-stage"></div>
+
+
+</section>
+
+<script type="text/javascript" src="/js/lib/require.js"></script>
+<script type="text/javascript" src="/js/config.js"></script>
+<script type="text/javascript" src="/js/main.js"></script>
+</body>
+</html>
+
+
