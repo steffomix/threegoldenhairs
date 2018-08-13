@@ -1,5 +1,4 @@
-
-### let's make 3 checks for vital signs of how much live is left in you
+###+++ let's make 3 checks for vital signs of how much live is left in you
 # so here is the first check:
 # do you know that when you throw a stone to someone, that there is a probability, that this stone come back somehow? Yes? Oh, nice!
 # and you know, that this can also happen with words you talk to others? Yes? Oh nice!
@@ -20,7 +19,7 @@
 # but if your answer to the first question was like: "I don't care about returning stones or words, for that I have my servants running!"
 # and if your answer to the second question was like: "When you don't understand what I mean, it's your fault!"
 # and if your answer to the third question was like: "I eat only what makes me stronger!"
-# Oh, so sad! You are allready dead, but feel free to watch everything for your amusement
+# Oh, so sad! You are allready dead, but feel free to watch everything for your amusement 
 
 
 ### let's go, no time to waste
@@ -28,7 +27,7 @@
 # and all this nothingness is god
 # and in this nothingness there is a 50/50 chance, that it develops an - at this point - undefined striving
 # but due to lack of time this chance turns into 100% success
-# and with this undefined striving god get aware of himself
+#+++ and with this undefined striving god get aware of himself
 # and by getting aware of himself he creates himself into himself
 # but he can't create anything then himself, because there is nothing else then himself
 # now we have God in God and the only thing that separates both from each other is the relationship to each other
@@ -91,7 +90,7 @@
 # now just walk from one aimed point to the next until you have reached the target
 
 
-### let's translate the meaning of the compass to the soul in the body
+###+++ let's translate the meaning of the compass to the soul in the body
 # the alignment wheel represents the striving of our body environment we live in
 # and let north be the servant striving and south the ruling striving
 # the magnetic field of earth represents the global striving environment of the spirit world
