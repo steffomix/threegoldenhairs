@@ -3,54 +3,59 @@
 # leather bag
 # seal
 # pillow with secret book
-# rulers staff
+# rulers staff with water inside
 # servant staff
 # little branch (pencil) to write
 # secret scroll of honey in jacket
 # secret hunting knife
-# secret lukewarm sevage
 # FG and LO
 # program:
-# SO let turn aound guests
-# SO humble guests
-# SO let turn around guests
-# SO make life review as shown in items list
+# SO stand on a stone, a bush behind SO, face to the guests
+# FG stand on a stone left from SO, face to the guests
+# LO stand on a stone right from SO, face to the guests
+# SO step down and put his materials on the stone
+# SO please guests to turn around
+# SO humble guests with seals in opposite order
+# SO please guests to turn around
+# SO build life review stack from items list: shepherd staff, rulers staff, pillow with book, seal with glas on top, empty leather bag with back to bottom and opening to , hammock-net 
 # SO rescue servant staff
-# SO teaches FG about sacrifice
-# SO teaches FG why SO can not take shepherd staff by himself
-# SO teaches FG about power of shepherd staff
-# SO sacrifice servant staff to FG
-# SO let FG sacrifice servant staff to SO
-# SO give scroll of honey to FG but forbid to open
-# SO tell FG that first and last page belong to SO
+# SO teaches FG why shepherd staff can only be given
+# SO teaches that in heaven FG can only become what FG is willing to sacrifice
+# SO teaches FG about divine power of shepherd staff
+# SO teaches FG that power of shepherd staff is the most needfull for FG
+# SO teaches FG that whoever wield the shepherd staff has to solve the mess of the life review stack
+# SO teaches FG that SO is well prepared but there is no preview possible because in spirit all move by trust
+# SO please FG to prepare, open shepherd staff and sacrifice shepherd staff to someone FG decides to be worthy
+# FG sacrifice servant staff
+
+# SO give scroll of honey from heaven to FG but forbid to open it for now
+# SO teaches FG that first and last page belong to SO
 # SO put hammock net between LO and FG
-# SO put bag in front of hammock on the ground
-# SO give seal to LO
-# SO takes pillow with book from rulers staff and put it on his lap
-# SO cut sides of bag and unfold it over rulers staff like a bridge, inside to bottom
-# SO take seat on bag
+# SO put bag between life review stack and SO
+# SO cut sides of bag with knife near backside and open it, flap to SO
+# SO put seal into bottom side of opened bag
+# SO give pillow with book to LO but forbid to open the pillow
+# SO put rulers staff in front of stone
+# SO take seat on dirt in front of rulers staff, feet on lap of leather bag
 # SO please FG to take seat on SO's left leg with hammock and scroll of honey
 # SO please LO to take seat on SO's right leg with hammock and seal
-# SO let LO secrifice seal to SO
-# SO put seal in front of SO, text readable to top
-# SO give pillow with secret book to LO but forbid to open it
+
 # SO please FG to open the scroll of honey but forbid to read it
-# SO please FG to give SO the first page
-# SO read the first page from the scroll of honey (clean in heaven)
+# SO please FG to give SO the first page and last page
+# SO read the first page from the scroll of honey (about keep clean heaven)
 # SO please FG to give the last page from the scroll of honey to SO
 # SO put the last page from scroll of honey back into jacket
 # SO please FG to read all pages from scroll of honey
-# FG read about humility and hirarchy
-# FG read about time and clocks
-# FG read about games and work
-# FG read about money and wares
-# FG read about properties and assets
+# FG read about humility and hirarchy (try to be the least)
+# FG read about time and clocks (don't judge)
+# FG read about games and work (be gracious)
+# FG read about money and wares (love where no love is)
+# FG read about properties and assets (make heaven nice for all)
 # SO please LO to give SO the secret book from the pillow
 # SO open last emty page from secret book
 # SO explain LO the building of three days with drawings in secret book
 # SO explain LO "fishcan walky-talky"
 # SO give LO instructions for mission
-# SO explain LO to look on cover image of book to remember and show it
 # SO explain LO to read first page loud before begin mission
 # SO explain LO to read the rest of the book quiet
 # SO put book back into pillow and give it back to LO
@@ -81,6 +86,9 @@
 # SO please LO to lock the door by pulling up leather bag
 # SO warns FG to never use golden shepherd staff against own people
 # SO wish all to have much fun in heaven
+
+
+
 
 
 
